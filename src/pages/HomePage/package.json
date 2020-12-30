@@ -1,0 +1,5 @@
+{
+  "name": "HomePage",
+  "version": "1.0.0",
+  "main": "./HomePage.tsx"
+}
